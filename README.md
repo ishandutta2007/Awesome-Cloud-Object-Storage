@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Object-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Object-Storage?style=flat-square&color=blue" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Object-Storage/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Object-Storage?style=flat-square&color=blue" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Object-Storage/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Object-Storage?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Object-Storage/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-Object-Storage?style=flat-square&color=green" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -58,9 +58,9 @@ Welcome to the ultimate **Cloud Object Storage** resource hub. Whether you are b
 
 ## 🔓 Open-Source GitHub Projects
 
-The open-source cloud object storage ecosystem is exceptionally mature. Below is a list of top open-source projects sorted by GitHub star count in descending order.
+The open-source cloud object storage ecosystem is exceptionally mature. Below is a list of top open-source projects sorted by GitHub Stars_Count in descending order.
 
-| Repo & Description | Stars |
+| Repo & Description | GitHub_Stars |
 |---|---|
 | **[MinIO](https://github.com/minio/minio)** ⚡ — **The de facto standard for S3-compatible self-hosted object storage.** High-performance, Kubernetes-native enterprise object store with erasure coding, multi-site replication, and strict S3 API compatibility. (AGPL-3.0) | [![Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) |
 | **[SeaweedFS](https://github.com/seaweedfs/seaweedfs)** 🌊 — **Fast distributed storage system for blobs, objects, and files.** Optimized to handle billions of files efficiently with low latency, fast small-file processing, and native S3 API layer. (Apache-2.0) | [![Stars](https://img.shields.io/github/stars/seaweedfs/seaweedfs?style=social&color=white)](https://github.com/seaweedfs/seaweedfs/stargazers) |
